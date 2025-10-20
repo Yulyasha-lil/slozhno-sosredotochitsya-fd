@@ -25,9 +25,9 @@
     --subtitle-color: rgba(53 52 48 / 1);
     --header-elements: rgba(53 52 48 / 1);
     --section-heading: rgba(53 52 48 / 1);
-  }
+    }
 
-  :root.theme-light .header__rec {
+  :root.theme-auto .header__rec {
     display: none;
   }
 } 
