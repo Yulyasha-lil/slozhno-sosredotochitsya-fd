@@ -91,6 +91,7 @@
 
 .header__theme-menu-button_active {
   pointer-events: none;
+  outline: 1px solid var(--header-elements);
 }
 
 
